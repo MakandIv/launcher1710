@@ -1,9 +1,22 @@
 
+/acmedia/
+/asm/
+/crash-reports/
+/hats/
+/backup/
+/blueprints/
 /assets/
 /libraries/
+/journeymap/
 /logs/
+/local/
+/saves/
 /versions/
 launcher_profiles.json
 servers.dat
 servers.dat.bak
 tlauncher_profiles.json
+minetweaker.log
+BotaniaVars.dat
+.curseclient
+usernamecache.json
