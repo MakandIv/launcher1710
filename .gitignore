@@ -1,0 +1,9 @@
+
+/assets/
+/libraries/
+/logs/
+/versions/
+launcher_profiles.json
+servers.dat
+servers.dat.bak
+tlauncher_profiles.json
