@@ -14,13 +14,12 @@
 /local/
 /saves/
 /versions/
-launcher_profiles.json
+minetweaker.log
+options.txt
 servers.dat
 servers.dat.bak
 tlauncher_profiles.json
-minetweaker.log
+usernamecache.json
 BotaniaVars.dat
 .curseclient
-usernamecache.json
-options.txt
-*.ini
+launcher_profiles.json
