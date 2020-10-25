@@ -8,6 +8,7 @@
 /assets/
 /libraries/
 /journeymap/
+/liteconfig/
 /logs/
 /local/
 /saves/
@@ -21,3 +22,5 @@ BotaniaVars.dat
 .curseclient
 usernamecache.json
 options.txt
+/config/fastcraft.ini
+/config/splash.properties
