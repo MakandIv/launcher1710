@@ -22,5 +22,4 @@ BotaniaVars.dat
 .curseclient
 usernamecache.json
 options.txt
-config/fastcraft.ini
-config/splash.properties
+*.ini
