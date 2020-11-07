@@ -26,3 +26,5 @@ launcher_profiles.json
 config/fastcraft.ini
 config/IC2.ini
 betterfps.txt
+*.armour
+optionsof.txt
