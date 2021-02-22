@@ -32,9 +32,6 @@ recipes.remove(<ExtraUtilities:generator:6>);
 recipes.remove(<ExtraUtilities:generator:4>);
 recipes.remove(<ExtraUtilities:generator:3>);
 
-#remove deep dark portal
-recipes.remove(<ExtraUtilities:dark_portal>);
-
 #custom generators
 recipes.remove(<ExtraUtilities:generator:1>);
 recipes.remove(<ExtraUtilities:generator:5>);
