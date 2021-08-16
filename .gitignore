@@ -1,9 +1,10 @@
 
 /acmedia/
+/armourers_workshop_data/
 /asm/
 /crash-reports/
 /hats/
-/backup/
+/backups/
 /blueprints/
 /assets/
 /libraries/
@@ -15,6 +16,8 @@
 /saves/
 /XaeroWorldMap/
 /versions/
+/screenshots/
+/mods/VoxelMods/
 minetweaker.log
 options.txt
 servers.dat
