@@ -28,7 +28,6 @@ recipes.remove(<BigReactors:BRTurbinePart:1>);
 recipes.remove(<BigReactors:BRReactorPart:1>);
 recipes.remove(<BigReactors:YelloriumFuelRod>);
 recipes.remove(<BigReactors:BRTurbineRotorPart:1>);
-recipes.remove(<BigReactors:BRTurbineRotorPart>);
 recipes.addShaped(<BigReactors:BRReactorPart> * 2, [[<ore:ingotSteel>, <ore:ingotGraphite>, <ore:ingotSteel>], [<ore:ingotElectricalSteel>, <ore:ingotYellorium>, <ore:ingotElectricalSteel>], [<ore:ingotSteel>, <ore:ingotGraphite>, <ore:ingotSteel>]]);
 recipes.addShaped(<BigReactors:BRMultiblockGlass:1>, [[<ore:blockGlassHardened>, <BigReactors:BRTurbinePart>, <ore:blockGlassHardened>]]);
 recipes.addShaped(<BigReactors:BRMultiblockGlass>, [[<ore:blockGlassHardened>, <ore:reactorCasing>, <ore:blockGlassHardened>]]);
@@ -38,7 +37,6 @@ recipes.addShaped(<BigReactors:BRReactorPart:3>, [[<ore:reactorCasing>, null, <o
 recipes.addShaped(<BigReactors:BRTurbinePart:1>, [[<BigReactors:BRTurbinePart>, <BuildCraft|Silicon:redstoneChipset:6>, <BigReactors:BRTurbinePart>], [<BuildCraft|Transport:pipeWire>, <ComputerCraft:CC-Computer:16384>, <BuildCraft|Transport:pipeWire>], [<BigReactors:BRTurbinePart>, <BuildCraft|Transport:pipeWire>, <BigReactors:BRTurbinePart>]]);
 recipes.addShaped(<BigReactors:BRReactorPart:1>, [[<ore:reactorCasing>, <ore:chipsetComp>, <ore:reactorCasing>], [<BuildCraft|Transport:pipeWire>, <ComputerCraft:CC-Computer>, <BuildCraft|Transport:pipeWire>], [<ore:reactorCasing>, <BuildCraft|Transport:pipeWire>, <ore:reactorCasing>]]);
 recipes.addShaped(<BigReactors:YelloriumFuelRod>, [[<ore:blockGlassHardened>, null, <ore:blockGlassHardened>], [<ore:blockGlassHardened>, <IC2:itemRTGPellet>, <ore:blockGlassHardened>], [<ore:blockGlassHardened>, null, <ore:blockGlassHardened>]]);
-recipes.addShaped(<BigReactors:BRTurbineRotorPart>, [[<AdvancedSolarPanel:asp_crafting_items:10>, <BigReactors:BRIngot:1>, <AdvancedSolarPanel:asp_crafting_items:10>]]);
 recipes.addShaped(<BigReactors:BRTurbineRotorPart:1>, [[<ore:ingotCyanite>, <ore:ingotIridium>, <ore:ingotIridium>]]);
 
 print("Initialized 'BigReactors.zs'");
