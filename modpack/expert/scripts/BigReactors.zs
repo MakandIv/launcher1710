@@ -3,10 +3,6 @@
 
 print("Initializing 'BigReactors.zs'...");
 
-#block advanced solar/IC2 uranium ingots from fuel usage in big reactors
-val entry = <ore:ingotUranium>;
-entry.remove(<AdvancedSolarPanel:asp_crafting_items:11>);
-
 #fuel nerfs
 recipes.remove(<BigReactors:BRIngot>);
 #furnace.remove(<BigReactors:BRIngot>);
