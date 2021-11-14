@@ -280,9 +280,9 @@ recipes.addShapeless(<TConstruct:CraftedSoil:1>, [<ore:gravel>, <ore:itemClay>, 
 <IC2:itemToolBronzeSpade>.maxDamage = 1;
 <IC2:itemToolBronzeHoe>.maxDamage = 1;
 <minecraft:wooden_pickaxe>.maxDamage = 5;
-<minecraft:stone_pickaxe>.maxDamage = 63;
-<minecraft:stone_axe>.maxDamage = 63;
-<minecraft:stone_shovel>.maxDamage = 63;
+<minecraft:stone_pickaxe>.maxDamage = 6;
+<minecraft:stone_axe>.maxDamage = 6;
+<minecraft:stone_shovel>.maxDamage = 6;
 <ThermalFoundation:tool.swordInvar>.maxDamage = 1;
 <ThermalFoundation:tool.axeInvar>.maxDamage = 1;
 <ProjRed|Exploration:projectred.exploration.rubyhelmet>.maxDamage = 16;

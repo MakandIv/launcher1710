@@ -52,10 +52,10 @@ recipes.addShaped(<ExtraUtilities:block_bedrockium>, [[<ExtraUtilities:bedrockiu
 furnace.addRecipe(<ExtraUtilities:bedrockiumIngot>, <IC2:itemMOX>);
 
 #remove high level compressed cobble
-recipes.remove(<ExtraUtilities:cobblestone_compressed:7>);
-recipes.remove(<ExtraUtilities:cobblestone_compressed:6>);
-recipes.remove(<ExtraUtilities:cobblestone_compressed:5>);
-recipes.remove(<ExtraUtilities:cobblestone_compressed:4>);
+#recipes.remove(<ExtraUtilities:cobblestone_compressed:7>);
+#recipes.remove(<ExtraUtilities:cobblestone_compressed:6>);
+#recipes.remove(<ExtraUtilities:cobblestone_compressed:5>);
+#recipes.remove(<ExtraUtilities:cobblestone_compressed:4>);
 
 #drum
 recipes.remove(<ExtraUtilities:drum>);

@@ -33,11 +33,11 @@ mods.tconstruct.Smeltery.removeMelting(<ore:blockRedstone>);
 mods.tconstruct.Smeltery.removeMelting(<ore:pearlEnder>);
 mods.tconstruct.Smeltery.removeMelting(<minecraft:rail>);
 mods.tconstruct.Smeltery.removeMelting(<minecraft:minecart>);
-mods.tconstruct.Smeltery.removeMelting(<IC2:blockOreUran>);
-mods.tconstruct.Smeltery.removeMelting(<IC2:blockMetal:3>);
+#mods.tconstruct.Smeltery.removeMelting(<IC2:blockOreUran>);
+#mods.tconstruct.Smeltery.removeMelting(<IC2:blockMetal:3>);
 
 #remove blocks from smeltery
-mods.tconstruct.Casting.removeBasinRecipe(<IC2:blockMetal:3>);
+#mods.tconstruct.Casting.removeBasinRecipe(<IC2:blockMetal:3>);
 
 #nerf patterns
 recipes.remove(<TConstruct:blankPattern>);
