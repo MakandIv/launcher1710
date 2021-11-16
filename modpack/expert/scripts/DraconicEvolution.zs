@@ -99,7 +99,7 @@ mods.tconstruct.Casting.addTableRecipe(<DraconicEvolution:energyCrystal>, <liqui
 <ExtraUtilities:pureLove>.displayName = "Pure Mana";
 
 //green heart
-recipes.addShapeless(<TConstruct:heartCanister:5>, [<ForbiddenMagic:StarBlock>, <StevesCarts:BlockMetalStorage:2>, <aobd:blockIridium>, <ExtraUtilities:block_bedrockium>]);
+recipes.addShapeless(<TConstruct:heartCanister:5>, [<ForbiddenMagic:StarBlock>, <StevesCarts:BlockMetalStorage:2>, <ore:blockIridium>, <ExtraUtilities:block_bedrockium>]);
 recipes.addShapeless(<TConstruct:heartCanister:6>, [<TConstruct:heartCanister:5>, <TConstruct:heartCanister:4>, <harvestcraft:pineappleupsidedowncakeItem>]);
 
 
